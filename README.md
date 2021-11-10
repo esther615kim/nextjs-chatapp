@@ -2,41 +2,49 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## nextjs-chatapp v1.1
 
- nextjs-chatapp is a project that I started to improve my NEXT.js knowledge.
- 
- It uses Firebases' Database/Storage libraries for it's implementation.
+nextjs-chatapp is a project that I started to improve my NEXT.js knowledge.
 
- 
+It uses Firebases' Database/Storage libraries for it's implementation.
+
 ### Preview
+
 ---
 
 [Images come here]
 
 ### Technologies used
+
 ---
-
-
 
 ### Features
+
 ---
+
 - Messaging
 - Friends
 - Profile
 - Notification
 
 ### ChangeLog
+
 ---
+
 Read all Changelog HERE
 
 ### Installation
+
 ---
-Setting up 
+
+Setting up
+
 - clone repository
-- open the folder 'nextjs-chatapp' 
+- open the folder 'nextjs-chatapp'
 -
 -
 -
 
-### Debugging and tests
----
-Read all Changelog HERE
+### References
+
+- contextAPI
+  https://ko.reactjs.org/docs/context.html
+  https://dev.to/enochndika/next-js-integrate-react-context-only-in-certain-pages-2igc
