@@ -1,22 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## nextjs-chatapp v1.1
+### nextjs-chatapp v1.1
 
-nextjs-chatapp is a project that I started to improve my NEXT.js knowledge.
-
-It uses Firebases' Database/Storage libraries for it's implementation.
-
-### Preview
+### Preview -to be updated-
 
 ---
 
 [Images come here]
 
-### Technologies used
-
----
-
-### Features
+### Features -to be updated-
 
 ---
 
@@ -25,15 +17,11 @@ It uses Firebases' Database/Storage libraries for it's implementation.
 - Profile
 - Notification
 
-### ChangeLog
+### ChangeLog -to be updated-
 
 ---
 
 Read all Changelog HERE
-
-### Installation
-
----
 
 Setting up
 
@@ -42,7 +30,6 @@ Setting up
 -
 -
 -
-
 ### References
 
 - contextAPI
