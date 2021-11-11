@@ -48,3 +48,6 @@ Setting up
 - contextAPI
   https://ko.reactjs.org/docs/context.html
   https://dev.to/enochndika/next-js-integrate-react-context-only-in-certain-pages-2igc
+
+- Chat Engine
+  https://chatengine.io/docs/getting_started
