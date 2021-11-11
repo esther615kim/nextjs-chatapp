@@ -51,3 +51,6 @@ Setting up
 
 - Chat Engine
   https://chatengine.io/docs/getting_started
+
+- Next Dynamic import
+  https://nextjs.org/docs/advanced-features/dynamic-import
